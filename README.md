@@ -5,12 +5,12 @@ This folder contains the files for the "Create a visual AMP Story" tutorial.
 ## Files included
 
 ```text
-amp-pets-story
+amp-story-portfolio
   ├── assets/
   │   └──  images, video, audio for story
   ├── bookend.json   
-  ├── pets.html            --- Incomplete version
-  ├── pets-completed.html  --- Completed version
+
+  ├──coder.html  --- Completed version
   └── README.md
 ```
 
